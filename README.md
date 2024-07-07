@@ -1,34 +1,34 @@
-<h1 align="center"> ☸𝐃𝐞𝐚𝐝𝐩𝐨𝐨𝐥 𝐕2☸ <br></h1>
+<h1 align="center"> 💀 𝐇𝐚𝐫𝐮𝐤𝐚_𝐒𝐚𝐤𝐮𝐫𝐚 💀 <br></h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=DEADPOOL-Md+made+by+Frank+;Follow+me+IG+%40confronter._" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=Haruka_Sakura+made+by+Johnleo+;Follow+me+IG+%40johnleo666" alt="Typing SVG" /></a>
   
   <img src="https://telegra.ph/file/25868e0b53e19c300a3aa.jpg" />
 </p>
 
 <p align="center">
-𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇-𝙈𝘿 Multi Device is a whatsapp bot created by <a href="https://github.com/Confronter" target="_blank">Frank</a> . Star the repo with courage 🌟.
+𝐇𝐚𝐫𝐮𝐤𝐚_𝐒𝐚𝐤𝐮𝐫𝐚 Multi Device is a whatsapp bot created by <a href="https://github.com/johnleosmith" target="_blank">Johnleo</a> . Star the repo with courage 🌟.
 </p>
 
 
 
-## 💀```Deadpool Group ❌ Channel ✝️```
+## 💀```𝐇𝐚𝐫𝐮𝐤𝐚_𝐒𝐚𝐤𝐮𝐫𝐚 Group ❌ Channel ✝️```
 
-- [ GROUP ](https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe)
-- [Channel](https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39)
+- [ GROUP ](https://chat.whatsapp.com/Hk4jZg8HMoH1auW2NAKazX)
+- [Channel](https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z)
 
-## 🔆🔆MADE BY ℂ𝕠𝕟𝕗𝕣𝕠𝕟𝕥𝕖𝕣❌𝕂𝕒𝕤̌𝕙𝕜𝕚𝕕
+## 🔆🔆MADE BY 𝐉𝐨𝐡𝐧𝐥𝐞𝐨 ✝️😈💀
 
 # 💀```Must fork the repository✝️```
 
-- FORK THE REPOSITORY [Here](https://github.com/Confronter/Deadpool-Md/fork)
+- FORK THE REPOSITORY [Here](https://github.com/johnleosmith/HARUKA_SAKURA-BUG-BOT/fork)
 
-## `Deadpool Pair Code For Session`
-[![Deadpool](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@confrontermfisa/SUPERBOT-PairCode-4?s=app)
+## `𝐇𝐚𝐫𝐮𝐤𝐚_𝐒𝐚𝐤𝐮𝐫𝐚 Pair Code For Session`
+[![Haruka_Sakura](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@confrontermfisa/SUPERBOT-PairCode-4?s=app)
 
 
 # 💀```Deployment✝️```
   # 😍Tutorial how to deploy
-[Video Tutorial](https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39/116)
+[Video Tutorial](https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z)
 ## Heroku Buildpack
 ```bash
 heroku/nodejs
@@ -57,8 +57,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/Confronter/Deadpool-Md
-cd Deadpool-Md
+git clone https://github.com/johnleosmith/HARUKA_SAKURA-BUG-BOT
+cd HARUKA_SAKURA-BUG-BOT
 yarn install
 npm start
 ```
@@ -70,8 +70,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/Confronter/Deadpool-Md
-cd Deadpool-Md
+git clone https://github.com/johnleosmith/HARUKA_SAKURA-BUG-BOT
+cd HARUKA_SAKURA-BUG-BOT
 npm start
 ```
 ## 💀For 24/7 Activation (Termux)
@@ -81,7 +81,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 ## 💀Developer
 
-  - [**Follow Instagram**](https://instagram.com/confronter._)
-- [**WhatsApp Me**](https://wa.me/254796283064)
+  - [**Follow Instagram**](https://instagram.com/johnleo666_)
+- [**WhatsApp Me**](https://wa.me/+2348027387246)
 ## THANKS✝️💛
   
