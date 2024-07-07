@@ -39,7 +39,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Create a new app at [Heroku](heroku.com)
 * Add Build packs
 * Connect your heroku with your github
-* Locate Deadpool-Md
+* Locate HARUKA_SAKURA-BUG-BOT
 * Now deploy.
 * Start the Worker
 * Enjoy the Bot.
