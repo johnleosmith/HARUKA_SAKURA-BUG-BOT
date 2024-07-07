@@ -1,5 +1,5 @@
 {
-"name": "haikal-hw",
+"name": "HARUKA_SAKURA-BUG-BOT",
 "version": "3.1.0",
 "description": "WhatsApp Using Lib Baileys Multi Device",
 "main": "index.js",
@@ -7,7 +7,7 @@
 "scripts": {
 "start": "node index.js"
 },
-"author": "Haikal Hw.",
+"author": "Johnleo",
 "license": "MIT",
 "dependencies": {
 "@whiskeysockets/baileys" : "^github:WhiskeySockets/Baileys",
