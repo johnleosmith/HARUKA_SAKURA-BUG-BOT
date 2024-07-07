@@ -5,7 +5,7 @@ const chalk = require('chalk')
 global.gr = 'https://whatsapp.com/channel/https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z'
 global.ig = 'johnleo666' // ubah aja
 global.email = 'johnleo.smith.666@gmail.com' //serah
-global.region = 'Nigeriq' // serah
+global.region = 'Nigeria' // serah
 //—————「 Set Name Own & Bot 」—————//
 global.ownername = '𝐉𝐨𝐡𝐧𝐥𝐞𝐨' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
