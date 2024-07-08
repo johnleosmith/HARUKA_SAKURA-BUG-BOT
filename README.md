@@ -23,7 +23,7 @@
 - FORK THE REPOSITORY [Here](https://github.com/johnleosmith/HARUKA_SAKURA-BUG-BOT/fork)
 
 ## `𝐇𝐚𝐫𝐮𝐤𝐚_𝐒𝐚𝐤𝐮𝐫𝐚 Pair Code For Session`
-[![Haruka_Sakura](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@confrontermfisa/SUPERBOT-PairCode-4?s=app)
+[![Haruka_Sakura](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@JohnleoSmith/HarukaSakura-PairCode-4?s=app)
 
 
 # 💀```Deployment✝️```
