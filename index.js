@@ -101,14 +101,14 @@ for (let num of participants) {
 try {
 ppuser = await classic.profilePictureUrl(num, 'image')
 } catch {
-ppuser = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60'
+ppuser = 'https://telegra.ph/file/993b4ff9df87631878505.png'
 }
 
 // Get Profile Picture Group
 try {
 ppgroup = await classic.profilePictureUrl(anu.id, 'image')
 } catch {
-ppgroup = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60'
+ppgroup = 'https://telegra.ph/file/993b4ff9df87631878505.png'
 }
 
 if (anu.action == 'add') {
