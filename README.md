@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=Haruka_Sakura+made+by+Johnleo+;Follow+me+IG+%40johnleo666" alt="Typing SVG" /></a>
   
-  <img src="https://telegra.ph/file/25868e0b53e19c300a3aa.jpg" />
+  <img src="https://telegra.ph/file/b07ee96fa50bd03e3e8ff.jpg" />
 </p>
 
 <p align="center">
