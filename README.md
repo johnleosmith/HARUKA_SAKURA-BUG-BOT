@@ -85,3 +85,11 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 - [**WhatsApp Me**](https://wa.me/+2348027387246)
 ## THANKS✝️💛
   
+🅲🆁🅴🅳🅸🆃🆂
+    <p align="center">
+        <a href="https://github.com/Confronter" target="_blank"><b>Thanks to Confronter</b></a>
+    </p>
+</body>
+</html>
+
+**FOR THE BOT BASE**❤️
