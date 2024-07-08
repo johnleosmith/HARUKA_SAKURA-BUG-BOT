@@ -2,7 +2,7 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.gr = 'https://whatsapp.com/channel/https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z'
+global.gr = 'https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z'
 global.ig = 'johnleo666' // ubah aja
 global.email = 'johnleo.smith.666@gmail.com' //serah
 global.region = 'Nigeria' // serah
