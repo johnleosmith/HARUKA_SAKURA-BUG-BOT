@@ -7395,7 +7395,7 @@ case 'runtime':
                             showAdAttribution: true,
                             title: botname,
                             body: ownername,
-                            thumbnailUrl: 'zetszet/cheemspic.jpg',
+                            thumbnailUrl: 'https://telegra.ph/file/993b4ff9df87631878505.jpg',
                             sourceUrl: 'https://chat.whatsapp.com/Hk4jZg8HMoH1auW2NAKazX',
                             mediaType: 1,
                             renderLargerThumbnail: true
