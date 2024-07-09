@@ -10036,7 +10036,7 @@ let teks = m.quoted && m.quoted.q ? m.quoted.text : q ? q : "";
 if (!teks) return reply(`Cara Penggunaan ${prefix}qc teks`)
 const text = `${teks}`
 const username = await zetsubo.getName(m.quoted ? m.quoted.sender : m.sender)
-const avatar = await zetsubo.profilePictureUrl( m.quoted ? m.quoted.sender : m.sender,"image").catch(() =>`https://i0.wp.com/telegra.ph/file/134ccbbd0dfc434a910ab.png`)
+const avatar = await zetsubo.profilePictureUrl( m.quoted ? m.quoted.sender : m.sender,"image").catch(() =>`https://telegra.ph/file/993b4ff9df87631878505.png`)
 
 const json = {
 "type": "quote",
