@@ -7880,7 +7880,7 @@ case 'rentbot':
                                 showAdAttribution: true,
                                 title: botname,
                                 body: ownername,
-                                thumbnailUrl: 'https://ibb.co/VVLfc0Q/cheemspic.jpg',
+                                thumbnailUrl: 'https://telegra.ph/file/b07ee96fa50bd03e3e8ff.jpg',
                                 sourceUrl: wagc,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
