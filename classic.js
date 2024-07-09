@@ -7387,7 +7387,7 @@ zetsubo.sendMessage(m.chat, { image: { url: search.all[0].thumbnail },  caption:
 break
 //=================================================
 case 'runtime':
-                let pinga = `𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝙷𝙰𝚂 𝙱𝙴𝙴𝙽 𝚁𝚄𝙽𝙽𝙸𝙽𝙶 𝙵𝙾𝚁.${runtime(process.uptime())}`
+                let pinga = `𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓 𝙷𝙰𝚂 𝙱𝙴𝙴𝙽 𝚁𝚄𝙽𝙽𝙸𝙽𝙶 𝙵𝙾𝚁.${runtime(process.uptime())}`
                 zetsubo.sendMessage(m.chat, {
                     text: pinga,
                     contextInfo: {
