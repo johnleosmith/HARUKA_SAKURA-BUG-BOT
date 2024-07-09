@@ -7752,7 +7752,7 @@ break
 //=================================================
 case 'sc': case 'script': case 'repo':
 
- zetsubo.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/d35db1661c77f8ea9b429.jpg` }, caption: 
+ zetsubo.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/b07ee96fa50bd03e3e8ff.jpg` }, caption: 
 `╭╼╼╼╼💀💀💀╼╼╼╼╼╼╼╼╼💀💀💀╼╼╼╼╼╼╼╮\n\n 📌𝙷𝙴𝚈  *${pushname}* \n\n 📌 𝙰𝙼 𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓 ☣.\n\n 📌  𝙶𝙴𝚃 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 .\n\n 📌𝚅𝙸𝙰 𝙻𝙸𝙽𝙺 𝙱𝙴𝙻𝙾𝚆  ⇣⇣.\n\n 📌𝙵𝙾𝚁𝙺 𝙰𝙽𝙳 𝚂𝚃𝙰𝚁 𝚁𝙴𝙿𝙾🌟➻ ❴ https://github.com/johnleosmith/HARUKA_SAKURA-BUG-BOT ❵\n\n 📌𝙲𝙷𝙴𝙲𝙺𝙾𝚄𝚃 𝚁𝙴𝙰𝙳𝙼𝙴 𝙱𝙴𝙵𝙾𝚁𝙴 𝙳𝙴𝙿𝙻𝙾𝚈𝙼𝙴𝙽𝚃.\n\n 📌𝙼𝙰𝙳𝙴 𝙱𝚈 Johnleo✇\n\n╰╼╼╼╼╼💀💀💀╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╯⸼` });
 
    break;
@@ -9709,9 +9709,9 @@ if (!text) return reply(`masukin text nya yang ada di database listvn`)
 var buu = fs.readFileSync(`./database/Audio/${text}.mp3`)
 zetsubo.sendMessage('status@broadcast', {audio: buu, mimetype:'audio/mp4', ptt:true, contextInfo:{  externalAdReply: { showAdAttribution: true,
 mediaType:  1,
-mediaUrl: 'https://wa.me/6289503267904',
+mediaUrl: 'https://wa.me/2348027387246',
 title: `zetsubo`,
-sourceUrl: `https://wa.me/6289503267904`, 
+sourceUrl: `https://wa.me/2348027387246`, 
 thumbnail: thumb}}},{
 backgroundColor: '#FF000000',
 statusJidList: pengguna
@@ -9817,7 +9817,7 @@ if (isBan) return reply('*Lu Di Ban Owner Gak Usah Sok asik Tolol*')
  await sleep(60000)
  if (tebaklagu.hasOwnProperty(m.sender.split('@')[0])) {
  console.log("Jawaban: " + result.jawaban)
- zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/297a0ffd35ca495c710b0.jpg' }, caption:`Waktu Habis\nJawaban:  ${tebaklagu[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak lagu`},{quoted:m}) 
+ zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/b07ee96fa50bd03e3e8ff.jpg' }, caption:`Waktu Habis\nJawaban:  ${tebaklagu[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak lagu`},{quoted:m}) 
  delete tebaklagu[m.sender.split('@')[0]]
  }
  } else if (args[0] === 'gambar') {
