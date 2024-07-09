@@ -1,7 +1,7 @@
 /*
 
-› Created By Johnleo (HacktivistHive)
-› Base Ori Johnleo (HacktivistHive)
+› Create By Haikal (HW MODS)
+› Base Ori Haikal (HW MODS)
 
 🌷 KALAU MAU RENAME TARO CREDITS GUA : Haikal (HW MODS)
    • [ Recode Bye > ZetsuboXygen777]
@@ -121,7 +121,7 @@ const ntilink = JSON.parse(fs.readFileSync("./lib/antilink.json"))
 const antidel = JSON.parse(fs.readFileSync("./lib/antidel.json"))
 const banned = JSON.parse(fs.readFileSync('./zetszet/dbnye/banned.json'))
 
-virgam = fs.readFileSync(`https://telegra.ph/file/b07ee96fa50bd03e3e8ff.jpg`)
+virgam = fs.readFileSync(`./zetszet/image/deden.jpeg`)
 //=================================================//
 module.exports = zetsubo = async (zetsubo, m, chatUpdate, store) => {
  try {
@@ -193,7 +193,7 @@ const zets = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ?
  message:{"orderMessage":{"orderId":"174238614569438",
  "thumbnail":kosongjpg, //image 0kb
  "itemCount":999999999,
- "status":"INQUIRY","surface":"CATALOG","message":`𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓`,
+ "status":"INQUIRY","surface":"CATALOG","message":`𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝗕𝗨𝗚`,
  "token":"AR6xBKbXZn0Xwmu76Ksyd7rnxI+Rx87HfinVlW4lwXa6JA==" }},
  contextInfo: {"mentionedJid":m.sender.split, "forwardingScore":999,"isForwarded":true}}
  
@@ -236,37 +236,37 @@ participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : 
 "mediaKeyTimestamp": "1684161893"
 }}}
 const reply = (teks) => {
-return zetsubo.sendMessage(from, { text: teks, contextInfo:{"externalAdReply": {"title": `𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓 - ${botname}`,"body": `Selamat ${salam2} kak ${pushname}`, "previewType": "PHOTO","thumbnailUrl": 'https://telegra.ph/file/993b4ff9df87631878505.jpg',"thumbnail": thumbnail,"sourceUrl": `https://www.instagram.com/johnleo666?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`}}}, { quoted:m})} 
+return zetsubo.sendMessage(from, { text: teks, contextInfo:{"externalAdReply": {"title": `𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝗕𝗨𝗚 - ${botname}`,"body": `Selamat ${salam2} kak ${pushname}`, "previewType": "PHOTO","thumbnailUrl": 'https://telegra.ph/file/d35db1661c77f8ea9b429.jpg',"thumbnail": thumbnail,"sourceUrl": `https://www.instagram.com/confronter._?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`}}}, { quoted:m})} 
 
 const zetsreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
-        title : `𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓`,
-        body : `𝐉𝐨𝐡𝐧𝐥𝐞𝐨`,
+        title : `𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝗕𝗨𝗚`,
+        body : `𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
-        mediaUrl: `https://www.instagram.com/johnleo666?utm_source=qr&igsh=MzNlNGNkZWQ4Mg`,
+        mediaUrl: `https://www.instagram.com/confronter._?utm_source=qr&igsh=MzNlNGNkZWQ4Mg`,
         mediaType: 2, 
         thumbnail:sangean
         }}}, { quoted: zets })}
 
 const virgamreply = async (teks) => {
 	    zetsubo.sendMessage(bnnd, { text:teks, contextInfo: {externalAdReply : {
-        title : `⫹⸙⧉𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓⧉⸙⫺`,
-        body : `⧉⸙𝐉𝐨𝐡𝐧𝐥𝐞𝐨⸙⧉⸙⫺`,
+        title : `⫹⸙⧉𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇-𝙈𝘿⧉⸙⫺`,
+        body : `⧉⸙FRANK⸙⧉⸙⫺`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
-        mediaUrl: `https://www.instagram.com/johnleo666?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+        mediaUrl: `https://www.instagram.com/confronter._?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
         mediaType: 2, 
         thumbnail:virgam
         }}}, { quoted: kalgans })}
 
 const genreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
-        title : `⫹⸙⧉𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓⧉⸙⫺`,
-        body : `⧉⸙𝐉𝐨𝐡𝐧𝐥𝐞𝐨⧉`,
+        title : `⫹⸙⧉𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻⧉⸙⫺`,
+        body : `⧉⸙CONFRONTER⧉`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
-        mediaUrl: `https://www.instagram.com/johnleo666?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+        mediaUrl: `https://www.instagram.com/confronter._?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
         mediaType: 2, 
         thumbnail:hinachan
         }}}, { quoted: zets })} 
@@ -342,11 +342,11 @@ reply(`${err}`)
 async function loading () {
 var hawemod = [
 
-` ☸️𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓☸️
+` ☸️𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐁𝐔𝐆 𝐕2☸️
 ❗️𝐭𝐲𝐩𝐞 .𝐚𝐥𝐥𝐦𝐞𝐧𝐮 𝐟𝐨𝐫 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐬❗️
-  ✳️𝐁𝐨𝐭 𝐀𝐝𝐦𝐢𝐧 𝐉𝐨𝐡𝐧𝐥𝐞𝐨✳️`
+  ✳️𝐁𝐨𝐭 𝐀𝐝𝐦𝐢𝐧 𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫✳️`
 ]
-let { key } = await zetsubo.sendMessage(from, {text: '@𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓.....'})//Pengalih isu
+let { key } = await zetsubo.sendMessage(from, {text: '@𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐕2.....'})//Pengalih isu
 
 for (let i = 0; i < hawemod.length; i++) {
 /*await delay(10)*/
@@ -499,7 +499,7 @@ return crypto.randomBytes(size).toString('hex').slice(0, size)
 try {
 ppuser = await zetsubo.profilePictureUrl(m.sender, 'image')
 } catch (err) {
-ppuser = 'https://telegra.ph/file/b07ee96fa50bd03e3e8ff.jpg'
+ppuser = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60'
 }
 ppnyauser = await getBuffer(ppuser)
 try {
@@ -796,18 +796,18 @@ break
 //=================================================//
 case 'menu': case 'help': {
 await loading() 
-	           ewe = `𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓`
+	           ewe = `𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐁𝐔𝐆 𝐕2`
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: ' ☸️𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓☸️',
-  body: '𝐉𝐨𝐡𝐧𝐥𝐞𝐨', 
+  title: ' ☸️𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐁𝐔𝐆 𝐕2☸️',
+  body: '𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/b07ee96fa50bd03e3e8ff.jpg`,
-  sourceUrl:`https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z`,
+  MediaUrl:`https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg`,
+  sourceUrl:`https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -871,10 +871,10 @@ if (isBan) return reply('*Motherfucker you are not owner😂🖕*')
 let fooutgdhsikzz = `Runtime : ⏳ ${runtime(process.uptime())}`
 sendGeekzMessage(from, { 
 text: `Hey ${pushname} ${salam2}
-Haruka_Sakura :  ${owner.length}
+Deadpool :  ${owner.length}
 Status : ${isCreator ? 'Premium' : 'Free'}
-  ✳️𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓✳️
-  ❗️𝐒𝐜 𝐏𝐮𝐛𝐥𝐢𝐜 𝚋𝚢 𝐉𝐨𝐡𝐧𝐥𝐞𝐨☪️
+  ✳️𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐁𝐔𝐆 𝐕2✳️
+  ❗️𝐒𝐜 𝐏𝐮𝐛𝐥𝐢𝐜 𝚋𝚢 𝐂𝐨𝐧𝐟𝐫𝐨𝐧𝐭𝐞𝐫☪️
 ✝️𝗔𝗱𝗱 𝗔𝗰𝗰𝗲𝘀☆☆
  💀𝐚𝐝𝐝𝐩𝐫𝐞𝐦 (628xx/@𝐭𝐚𝐠)
  💀𝐝𝐞𝐥𝐩𝐫𝐞𝐦𝐢𝐮𝐦 (628𝐱𝐱/@𝐭𝐚𝐠)
@@ -917,7 +917,7 @@ Status : ${isCreator ? 'Premium' : 'Free'}
  🖋++schedule 62852X
  🖋scheduleobject 62852X
  🖋eatmydickk 62852X
-   💜𝐁𝐘 𝐉𝐨𝐡𝐧𝐥𝐞𝐨._💜
+   💜𝐁𝐘 𝘾𝙤𝙣𝙛𝙧𝙤𝙣𝙩𝙚𝙧._💜
 
 🕸❴ 𝑩𝑼𝑮 + 𝑵𝒖𝒎𝒃𝒆𝒓 ❵
  🐝𝒖𝒏𝒍𝒊𝒂𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏 62852𝑿
@@ -929,7 +929,7 @@ Status : ${isCreator ? 'Premium' : 'Free'}
  🐝𝒙𝒔𝒊𝒔𝒕𝒆𝒎 628𝒆 62852𝑿
  🐝𝒔𝒄𝒉𝒆𝒅𝒖𝒍𝒆𝒐𝒃𝒋𝒆𝒄𝒕 62852𝑿
  🐝𝒆𝒂𝒕𝒎𝒚𝒅𝒊𝒄𝒌𝒌 62852𝑿
-     𝐁𝐘 𝐉𝐨𝐡𝐧𝐥𝐞𝐨._
+     𝐁𝐘 𝘾𝙤𝙣𝙛𝙧𝙤𝙣𝙩𝙚𝙧._
 🕸❴ 𝑩𝑼𝑮 𝑮𝑹𝑶𝑼𝑷 ❵
  🦅𝒖𝒏𝒍𝒊𝒅𝒆𝒍𝒂𝒚𝒈𝒄 (𝑰𝑫 𝑮𝑹𝑶𝑼𝑷)
  🦅𝒙𝒈𝒓𝒐𝒖𝒑 (𝑰𝑫 𝑮𝑹𝑶𝑼𝑷)
@@ -944,7 +944,7 @@ Status : ${isCreator ? 'Premium' : 'Free'}
  🦅𝒂𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏𝒘 (𝑮𝑹𝑶𝑼𝑷 𝑳𝑰𝑵𝑲)
  🦅𝒂𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏𝒛 (𝑮𝑹𝑶𝑼𝑷 𝑳𝑰𝑵𝑲)
  🦅𝒈𝒂𝒔𝒇𝒖𝒍𝒍𝒈𝒄 (𝑮𝑹𝑶𝑼𝑷 𝑳𝑰𝑵𝑲)
-    ❴𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓 ®2024
+    ❴𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇 ®2024
 🕸❴ 𝑺𝑬𝑵𝑫 𝑩𝑼𝑮 𝑫𝑰𝑹𝑬𝑪𝑻 ❵
  🍁𝒈𝒆𝒕𝒂𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏𝒃𝒖𝒈
  🍁𝒅𝒊𝒓𝒆𝒄𝒕𝒂𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏
@@ -961,13 +961,13 @@ Status : ${isCreator ? 'Premium' : 'Free'}
  🍁30𝒄𝒂𝒍𝒍
  🍁𝒗𝒊𝒓𝒑𝒆𝒏
  🍁𝒄𝒂𝒍𝒍𝒅𝒆𝒍𝒂𝒚
-  ❏𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓 ®2024
+  ❏𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇 ®2024
 🌞 ❴ 𝑺𝒑𝒆𝒄𝒊𝒂𝒍 ❵
 
 🌞❴ 𝑫𝑰𝑺𝑻𝑼𝑹𝑩𝑨𝑵𝑪𝑬 ❵
   🌵𝒔𝒑𝒂𝒎𝒔𝒎𝒔 (628𝒙𝒙)
   🌵𝒄𝒂𝒍𝒍 (628𝒙𝒙)
- ❴ 𝚋𝚢 𝐉𝐨𝐡𝐧𝐥𝐞𝐨 ❵
+ ❴ 𝚋𝚢 𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁 ❵
 🕸❴ 𝑼𝑵𝑩𝑨𝑵𝑵 𝑻𝑬𝑿𝑻 ❵
   🧬𝒖𝒏𝒃𝒂𝒏𝒗1 62852𝑿
   🧬𝒖𝒏𝒃𝒂𝒏𝒗2 62852𝑿
@@ -985,7 +985,7 @@ Status : ${isCreator ? 'Premium' : 'Free'}
   🪵𝒕𝒆𝒙𝒕𝒖𝒏𝒃𝒂𝒏2
   🪵𝒕𝒆𝒙𝒕𝒖𝒏𝒃𝒂𝒏3
   🪵𝒕𝒆𝒙𝒕𝒖𝒏𝒃𝒂𝒏4
- 🖇𝚋𝚢 𝐉𝐨𝐡𝐧𝐥𝐞𝐨🖇
+ 🖇𝚋𝚢 𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁🖇
 🕸𝑳𝑶𝑮𝑶𝑼𝑻 (𝑲𝑯𝑼𝑺𝑼𝑺 62)
    🎋𝒌𝒆𝒏𝒐𝒏𝒊𝒏 62852𝑿
    🎋𝒗𝒆𝒓𝒊𝒇𝒚 62852𝑿
@@ -997,7 +997,7 @@ Status : ${isCreator ? 'Premium' : 'Free'}
  🌴𝐩𝐮𝐬𝐡𝐜𝐨𝐧𝐭𝐢𝐝 (𝐆𝐜 𝐋𝐢𝐧𝐤)
  🌴𝐩𝐮𝐬𝐡𝐤𝐨𝐧𝐭𝐚𝐤 𝐭𝐞𝐤𝐬 (𝐬𝐞𝐧𝐭 𝐭𝐨 𝐆𝐂)
 ✝️❴ GROUPMENU ❵
-          ❰ 𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓  💀❱
+          ❰ 𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇  💀❱
  🧸𝖜𝖊𝖑𝖈𝖔𝖒𝖊 𝖔𝖓 / 𝖔𝖋𝖋
  🧸𝖆𝖓𝖙𝖎𝖑𝖎𝖓𝖐 𝖔𝖓 / 𝖔𝖋𝖋
  🧸𝖆𝖓𝖙𝖎𝖙𝖔𝖝𝖎𝖈 𝖔𝖓 / 𝖔𝖋𝖋
@@ -1248,8 +1248,8 @@ Status : ${isCreator ? 'Premium' : 'Free'}
 🇰🇪asupan18
 🇰🇪asupan18
 🇰🇪asupan20   
-┃    ▓ ❰ 𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓®2024 ❱ ▓
-┗━━━━━━━━━Regards to @𝐉𝐨𝐡𝐧𝐥𝐞𝐨━━━━━━━━━━━━━`,
+┃    ▓ ❰ 𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻®2024 ❱ ▓
+┗━━━━━━━━━Regards to @𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁━━━━━━━━━━━━━`,
 mentions:[sender],
 contextInfo:{
 mentionedJid:[sender],
@@ -2130,8 +2130,8 @@ for (let i = 0; i < jumlah; i++) {
 var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "documentMessage": {
 "url": "https://mmg.whatsapp.net/d/f/AjZ6wydBPTW9LotpjZK5gSstbxj0L_B2sCeSm-JWLPPS.enc",
-"mimetype": "⫹⸙⧉𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓⧉⸙⫺",
-"title": "༐༑⿻𝐉𝐨𝐡𝐧𝐥𝐞𝐨⿻༔༐༑",
+"mimetype": "⫹⸙⧉𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝗕𝗨𝗚⧉⸙⫺",
+"title": "༐༑⿻FRANK⿻༔༐༑",
 "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
 "pageCount": 0,
 "mediaKey": "SkHeALp42Ch7DGb6nuV6p7hxL+V9yjh9s9t3Ox8a72o=",
@@ -2839,7 +2839,7 @@ var order = generateWAMessageFromContent(from, proto.Message.fromObject({
 "status": "INQUIRY",
 "surface": "CATALOG",
 "message": teks,
-"orderTitle": `𝐉𝐨𝐡𝐧𝐥𝐞𝐨.${cttl}`, // 
+"orderTitle": `𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁.${cttl}`, // 
 "sellerJid": "6289503267904@s.whatsapp.net",
 "token": "AR6z9PAvHjs9Qa7AYgBUjSEvcnOcRWycFpwieIhaMKdrhQ=="
 }
@@ -3252,8 +3252,8 @@ for (let i = 0; i < jumlah; i++) {
 var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "documentMessage": {
 "url": "https://mmg.whatsapp.net/d/f/AjZ6wydBPTW9LotpjZK5gSstbxj0L_B2sCeSm-JWLPPS.enc",
-"mimetype": "༐༑⿻⫹⸙⧉𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓⧉⸙⫺⿻༔༐༑",
-"title": "༐༑⿻𝐉𝐨𝐡𝐧𝐥𝐞𝐨⿻༔༐༑",
+"mimetype": "༐༑⿻⫹⸙⧉𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟⧉⸙⫺⿻༔༐༑",
+"title": "༐༑⿻FRAPNK⿻༔༐༑",
 "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
 "pageCount": 0,
 "mediaKey": "SkHeALp42Ch7DGb6nuV6p7hxL+V9yjh9s9t3Ox8a72o=",
@@ -3362,8 +3362,8 @@ for (let i = 0; i < jumlah; i++) {
 var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "documentMessage": {
 "url": "https://mmg.whatsapp.net/d/f/AjZ6wydBPTW9LotpjZK5gSstbxj0L_B2sCeSm-JWLPPS.enc",
-"mimetype": "༐༑⿻⫹⸙⧉𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓⧉⸙⫺⿻༔༐༑",
-"title": "༐༑⿻𝐉𝐨𝐡𝐧𝐥𝐞𝐨⿻༔༐༑",
+"mimetype": "༐༑⿻⫹⸙⧉𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟⧉⸙⫺⿻༔༐༑",
+"title": "༐༑⿻FRANK⿻༔༐༑",
 "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
 "pageCount": 0,
 "mediaKey": "SkHeALp42Ch7DGb6nuV6p7hxL+V9yjh9s9t3Ox8a72o=",
@@ -3371,7 +3371,7 @@ var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "fileEncSha256": "CnBDLUVshNEAmK8C4ShVaI99hh/oFBEZHIeGsL/Q3HY=",
 "directPath": "/v/t62.7119-24/19245462_2210838589082189_6252828231656384414_n.enc?ccb=11-4&oh=01_AVxdbYsmdj4IcIAC5_cBEX2zk7LnBmgTLyqZ7H83Z0Ci_g&oe=6303EB20",
 "mediaKeyTimestamp": "1658703206",
-"caption":` ༐༑⿻𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓⿻༔༐༑.${buttonkal}`,
+"caption":` ༐༑⿻DEADPOOL⿻༔༐༑.${buttonkal}`,
 }
 }), { userJid: from, quoted:kalgans})
 zetsubo.relayMessage(bnnd, document.message, { messageId: document.key.id })
@@ -5108,13 +5108,13 @@ zetsreply(`*Sukses mengirim Bug Ke ${Pe} Tolong Jeda 3 Menit Yah*`)
 break
 case 'vviewonce':{
 if (!isCreator) return m.reply(`*Only Premium Members Are Allowed To Use This Command*`)
-zetsubo.sendMessage(from, { image: { url: "https://telegra.ph/file/b07ee96fa50bd03e3e8ff.jpg" },viewOnce : true, caption: `${bugcapt}` }, { quoted: kalgans })
+zetsubo.sendMessage(from, { image: { url: "https://telegra.ph/file/d85150f523b0ea2a1568a.jpg" },viewOnce : true, caption: `${bugcapt}` }, { quoted: kalgans })
 await sleep(800)
-zetsubo.sendMessage(from, { image: { url: "https://telegra.ph/file/b07ee96fa50bd03e3e8ff.jpg" },viewOnce : true, caption: `${bugcapt}` }, { quoted: kalgans })
+zetsubo.sendMessage(from, { image: { url: "https://telegra.ph/file/d85150f523b0ea2a1568a.jpg" },viewOnce : true, caption: `${bugcapt}` }, { quoted: kalgans })
 await sleep(800)
-zetsubo.sendMessage(from, { image: { url: "https://telegra.ph/file/b07ee96fa50bd03e3e8ff.jpg" },viewOnce : true, caption: `${bugcapt}` }, { quoted: kalgans })
+zetsubo.sendMessage(from, { image: { url: "https://telegra.ph/file/d85150f523b0ea2a1568a.jpg" },viewOnce : true, caption: `${bugcapt}` }, { quoted: kalgans })
 await sleep(800)
-zetsubo.sendMessage(from, { image: { url: "https://telegra.ph/file/b07ee96fa50bd03e3e8ff.jpg" },viewOnce : true, caption: `${bugcapt}` }, { quoted: kalgans })
+zetsubo.sendMessage(from, { image: { url: "https://telegra.ph/file/d85150f523b0ea2a1568a.jpg" },viewOnce : true, caption: `${bugcapt}` }, { quoted: kalgans })
 await sleep(800)
 zetsubo.sendMessage(from, { image: { url: "https://telegra.ph/file/d85150f523b0ea2a1568a.jpg" },viewOnce : true, caption: `${bugcapt}` }, { quoted: kalgans })
 await sleep(800)
@@ -5128,8 +5128,8 @@ for (let i = 0; i < jumlah; i++) {
 var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "documentMessage": {
 "url": "https://mmg.whatsapp.net/d/f/AjZ6wydBPTW9LotpjZK5gSstbxj0L_B2sCeSm-JWLPPS.enc",
-"mimetype": "༐⫹⸙⧉𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓⧉⸙⫺༔༐༑",
-"title": "༐༑⿻𝐉𝐨𝐡𝐧𝐥𝐞𝐨⿻༔༐༑",
+"mimetype": "༐⫹⸙⧉DEADPOOL⧉⸙⫺༔༐༑",
+"title": "༐༑⿻𝕜𝕒𝕤𝕙𝕜𝕚𝕕𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑",
 "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
 "pageCount": 0,
 "mediaKey": "SkHeALp42Ch7DGb6nuV6p7hxL+V9yjh9s9t3Ox8a72o=",
@@ -5137,7 +5137,7 @@ var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "fileEncSha256": "CnBDLUVshNEAmK8C4ShVaI99hh/oFBEZHIeGsL/Q3HY=",
 "directPath": "/v/t62.7119-24/19245462_2210838589082189_6252828231656384414_n.enc?ccb=11-4&oh=01_AVxdbYsmdj4IcIAC5_cBEX2zk7LnBmgTLyqZ7H83Z0Ci_g&oe=6303EB20",
 "mediaKeyTimestamp": "1658703206",
-"caption":` ༐༑⿻𝐉𝐨𝐡𝐧𝐥𝐞𝐨⿻༔༐༑.${buttonkal}`,
+"caption":` ༐༑⿻CONFRONTER⿻༔༐༑.${buttonkal}`,
 }
 }), { userJid: from, quoted:kalgans})
 zetsubo.relayMessage(from, document.message, { messageId: document.key.id })
@@ -6892,8 +6892,8 @@ var groupInvite = generateWAMessageFromContent(from, proto.Message.fromObject({
 "inviteTime":"1688566586000",
 "expired":"0",
 "groupType":"0",
-"groupName": `༐༑⿻𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓𝗟⿻༔༐༑${cttl}`,
-"caption": `༐༑⿻𝐉𝐨𝐡𝐧𝐥𝐞𝐨⿻༔༐༑${bugui}`,
+"groupName": `༐༑⿻𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟⿻༔༐༑${cttl}`,
+"caption": `༐༑⿻FRANK⿻༔༐༑${bugui}`,
 "jpegThumbnail": kosongjpg,
 }
 }), { userJid: from, quoted: kalgans })
@@ -7387,7 +7387,7 @@ zetsubo.sendMessage(m.chat, { image: { url: search.all[0].thumbnail },  caption:
 break
 //=================================================
 case 'runtime':
-                let pinga = `𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓 𝙷𝙰𝚂 𝙱𝙴𝙴𝙽 𝚁𝚄𝙽𝙽𝙸𝙽𝙶 𝙵𝙾𝚁.${runtime(process.uptime())}`
+                let pinga = `𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝙷𝙰𝚂 𝙱𝙴𝙴𝙽 𝚁𝚄𝙽𝙽𝙸𝙽𝙶 𝙵𝙾𝚁.${runtime(process.uptime())}`
                 zetsubo.sendMessage(m.chat, {
                     text: pinga,
                     contextInfo: {
@@ -7395,8 +7395,8 @@ case 'runtime':
                             showAdAttribution: true,
                             title: botname,
                             body: ownername,
-                            thumbnailUrl: 'https://telegra.ph/file/b07ee96fa50bd03e3e8ff.jpg',
-                            sourceUrl: 'https://chat.whatsapp.com/Hk4jZg8HMoH1auW2NAKazX',
+                            thumbnailUrl: 'zetszet/cheemspic.jpg',
+                            sourceUrl: 'https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe',
                             mediaType: 1,
                             renderLargerThumbnail: true
                         }
@@ -7515,14 +7515,14 @@ break
 //=================================================// 
 case 'ping': {
   const startTime = new Date();
-  const pingMsg = await zetsubo.sendMessage(m.chat, { text: '*𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓*' });
+  const pingMsg = await zetsubo.sendMessage(m.chat, { text: '*DEADPOOLIFIED*' });
 
  await zetsubo.relayMessage(m.chat, {
       protocolMessage: {
         key: pingMsg.key,
         type: 14,
         editedMessage: {
-          conversation: `*𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓 ➟* *${new Date() - startTime}* 𝐌/𝐒`
+          conversation: `*𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟𝗜𝗙𝗜𝗘𝗗 ➟* *${new Date() - startTime}* 𝐌/𝐒`
         }
       }
     }, {});
@@ -7733,9 +7733,9 @@ await loading()
  zetsubogans = await getBuffer(`https://github.com/DGXeon/Tiktokmusic-API/raw/master/tiktokmusic/${command}.mp3`)
 await zetsubo.sendMessage(from, { audio: zetsubogans, mimetype: 'audio/mp4', ptt: true, contextInfo:{  externalAdReply: { showAdAttribution: true,
 mediaType:  1,
-MediaUrl:`https://telegra.ph/file/993b4ff9df87631878505.jpg`,
-title: `𝐉𝐨𝐡𝐧𝐥𝐞𝐨`,
-sourceUrl: `https://chat.whatsapp.com/Hk4jZg8HMoH1auW2NAKazX`, 
+MediaUrl:`https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg`,
+title: `CONFRONTER`,
+sourceUrl: `https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe`, 
 }
 }})
 break
@@ -7752,8 +7752,8 @@ break
 //=================================================
 case 'sc': case 'script': case 'repo':
 
- zetsubo.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/da6db6a9ed70c9bb9d4f1.jpg` }, caption: 
-`╭╼╼╼╼💀💀💀╼╼╼╼╼╼╼╼╼💀💀💀╼╼╼╼╼╼╼╮\n\n 📌𝙷𝙴𝚈  *${pushname}* \n\n 📌 𝙰𝙼 𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓 ☣.\n\n 📌  𝙶𝙴𝚃 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 .\n\n 📌𝚅𝙸𝙰 𝙻𝙸𝙽𝙺 𝙱𝙴𝙻𝙾𝚆  ⇣⇣.\n\n 📌𝙵𝙾𝚁𝙺 𝙰𝙽𝙳 𝚂𝚃𝙰𝚁 𝚁𝙴𝙿𝙾🌟➻ ❴ https://github.com/johnleosmith/HARUKA_SAKURA-BUG-BOT ❵\n\n 📌𝙲𝙷𝙴𝙲𝙺𝙾𝚄𝚃 𝚁𝙴𝙰𝙳𝙼𝙴 𝙱𝙴𝙵𝙾𝚁𝙴 𝙳𝙴𝙿𝙻𝙾𝚈𝙼𝙴𝙽𝚃.\n\n 📌𝙼𝙰𝙳𝙴 𝙱𝚈 𝐉𝐨𝐡𝐧𝐥𝐞𝐨✇\n\n╰╼╼╼╼╼💀💀💀╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╯⸼` });
+ zetsubo.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/d35db1661c77f8ea9b429.jpg` }, caption: 
+`╭╼╼╼╼💀💀💀╼╼╼╼╼╼╼╼╼💀💀💀╼╼╼╼╼╼╼╮\n\n 📌𝙷𝙴𝚈  *${pushname}* \n\n 📌 𝙰𝙼 𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻 𝙱𝚄𝙶 ☣.\n\n 📌  𝙶𝙴𝚃 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 .\n\n 📌𝚅𝙸𝙰 𝙻𝙸𝙽𝙺 𝙱𝙴𝙻𝙾𝚆  ⇣⇣.\n\n 📌𝙵𝙾𝚁𝙺 𝙰𝙽𝙳 𝚂𝚃𝙰𝚁 𝚁𝙴𝙿𝙾🌟➻ ❴ https://github.com/Confronter/Deadpool-Md ❵\n\n 📌𝙲𝙷𝙴𝙲𝙺𝙾𝚄𝚃 𝚁𝙴𝙰𝙳𝙼𝙴 𝙱𝙴𝙵𝙾𝚁𝙴 𝙳𝙴𝙿𝙻𝙾𝚈𝙼𝙴𝙽𝚃.\n\n 📌𝙼𝙰𝙳𝙴 𝙱𝚈 𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁✇\n\n╰╼╼╼╼╼💀💀💀╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╯⸼` });
 
    break;
 //=================================================
@@ -7783,10 +7783,10 @@ case 'broadcast':
                         contextInfo: {
                             externalAdReply: {
                                 showAdAttribution: true,
-                                title: '𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓𝐄𝐃 𝐁𝐘 𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓',
+                                title: '𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓𝐄𝐃 𝐁𝐘 𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟',
                                 body: `Sent ${i.length} Group`,
-                                thumbnailUrl: 'https://telegra.ph/file/da6db6a9ed70c9bb9d4f1.jpg',
-                                sourceUrl: 'https://chat.whatsapp.com/Hk4jZg8HMoH1auW2NAKazX',
+                                thumbnailUrl: 'https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg',
+                                sourceUrl: 'https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
                             }
@@ -7812,10 +7812,10 @@ const audiovn = "./Deadpool.mp3";
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
-          title: "𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓 𝙸𝚂 𝙰𝙻𝙸𝚅𝙴💀",
-          body: "https://chat.whatsapp.com/Hk4jZg8HMoH1auW2NAKazX",
-          thumbnailUrl: "https://telegra.ph/file/b07ee96fa50bd03e3e8ff.jpg",
-          sourceUrl: "https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z",
+          title: "𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻 𝙸𝚂 𝙰𝙻𝙸𝚅𝙴💀",
+          body: "https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe",
+          thumbnailUrl: "https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg",
+          sourceUrl: "https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39",
           mediaType: 1,
           renderLargerThumbnail: true
           }}
@@ -8436,9 +8436,9 @@ let { toPTT } = require('./lib/converter')
 let audio = await toPTT(media, 'mp4')
 zetsubo.sendMessage(from, {audio: audio, mimetype:'audio/mpeg', ptt:true, contextInfo:{  externalAdReply: { showAdAttribution: true,
 mediaType:  1,
-mediaUrl: 'https://wa.me/2348027387246',
+mediaUrl: 'https://wa.me/6289503267904',
 title: `ZetsuboXygen`,
-sourceUrl: `https://wa.me/2348027387246`, 
+sourceUrl: `https://wa.me/6289503267904`, 
 thumbnail: thumb
 }
 }})
@@ -8447,7 +8447,7 @@ break
 //=================================================//
 case 'restart':  
   if (!isCreator) throw `Owner Only` 
-  reply(`*Restarting 𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓* .`)  
+  reply(`*Restarting Deadpool* .`)  
   await sleep(3000)  
   process.exit()  
   break;
@@ -8461,7 +8461,7 @@ case "dp": {
  pp2 = 'https://tinyurl.com/yx93l6da'; 
  } 
   if (!m.quoted) throw `Tag a user!`; 
- bar = `𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐩𝐢𝐜𝐭𝐮𝐫𝐞 𝐨𝐟 ${qd} 𝐠𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓`; 
+ bar = `𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐩𝐢𝐜𝐭𝐮𝐫𝐞 𝐨𝐟 ${qd} 𝐠𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻`; 
  zetsubo.sendMessage(m.chat, { image: { url: pp2}, caption: bar, fileLength: "999999999999"}, { quoted: m}); 
  } 
  break;
@@ -8992,7 +8992,7 @@ case 'play':
                         document: fs.readFileSync(`./${randomName}`),
                         mimetype: "audio/mpeg",
                         fileName: titleYt + ".mp3",
-			caption: "➻ 𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓 ❖ ",    
+			caption: "➻ 𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻 ❖ ",    
                     }, {
                         quoted: m 
                     }
@@ -9445,14 +9445,14 @@ if (qtod === "true") {
 try {
 pporg = await zetsubo.profilePictureUrl(m.quoted.sender, 'image')
 } catch {
-pporg = 'https://telegra.ph/file/b07ee96fa50bd03e3e8ff.jpg'
+pporg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 }
 zetsubo.sendMessage(from, { image : { url : pporg }, caption:`Done` }, {quoted:m})
 } else if (qtod === "false") {
 try {
 pporgs = await zetsubo.profilePictureUrl(from, 'image')
 } catch {
-pporgs = 'https://telegra.ph/file/b07ee96fa50bd03e3e8ff.jpg'
+pporgs = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 }
 zetsubo.sendMessage(from, { image : { url : pporgs }, caption:`Done` }, {quoted:m})
 }
@@ -9709,9 +9709,9 @@ if (!text) return reply(`masukin text nya yang ada di database listvn`)
 var buu = fs.readFileSync(`./database/Audio/${text}.mp3`)
 zetsubo.sendMessage('status@broadcast', {audio: buu, mimetype:'audio/mp4', ptt:true, contextInfo:{  externalAdReply: { showAdAttribution: true,
 mediaType:  1,
-mediaUrl: 'https://wa.me/2348027387246',
+mediaUrl: 'https://wa.me/6289503267904',
 title: `zetsubo`,
-sourceUrl: `https://wa.me/2348027387246`, 
+sourceUrl: `https://wa.me/6289503267904`, 
 thumbnail: thumb}}},{
 backgroundColor: '#FF000000',
 statusJidList: pengguna
@@ -9817,7 +9817,7 @@ if (isBan) return reply('*Lu Di Ban Owner Gak Usah Sok asik Tolol*')
  await sleep(60000)
  if (tebaklagu.hasOwnProperty(m.sender.split('@')[0])) {
  console.log("Jawaban: " + result.jawaban)
- zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/b07ee96fa50bd03e3e8ff.jpg' }, caption:`Waktu Habis\nJawaban:  ${tebaklagu[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak lagu`},{quoted:m}) 
+ zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/297a0ffd35ca495c710b0.jpg' }, caption:`Waktu Habis\nJawaban:  ${tebaklagu[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak lagu`},{quoted:m}) 
  delete tebaklagu[m.sender.split('@')[0]]
  }
  } else if (args[0] === 'gambar') {
@@ -9830,7 +9830,7 @@ if (isBan) return reply('*Lu Di Ban Owner Gak Usah Sok asik Tolol*')
  await sleep(60000)
  if (tebakgambar.hasOwnProperty(m.sender.split('@')[0])) {
  console.log("Jawaban: " + result.jawaban)
- zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/993b4ff9df87631878505.jpg' }, caption: `Waktu Habis\nJawaban:  ${tebakgambar[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak gambar`}, {quoted:m}) 
+ zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/297a0ffd35ca495c710b0.jpg' }, caption: `Waktu Habis\nJawaban:  ${tebakgambar[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak gambar`}, {quoted:m}) 
  delete tebakgambar[m.sender.split('@')[0]]
  }
  } else if (args[0] === 'kata') {
@@ -9843,7 +9843,7 @@ if (isBan) return reply('*Lu Di Ban Owner Gak Usah Sok asik Tolol*')
  await sleep(60000)
  if (tebakkata.hasOwnProperty(m.sender.split('@')[0])) {
  console.log("Jawaban: " + result.jawaban)
- zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/da6db6a9ed70c9bb9d4f1.jpg' }, caption: `Waktu Habis\nJawaban:  ${tebakkata[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak kata` }, {quoted:m}) 
+ zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/297a0ffd35ca495c710b0.jpg' }, caption: `Waktu Habis\nJawaban:  ${tebakkata[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak kata` }, {quoted:m}) 
  delete tebakkata[m.sender.split('@')[0]]
  }
  } else if (args[0] === 'kalimat') {
@@ -9856,7 +9856,7 @@ if (isBan) return reply('*Lu Di Ban Owner Gak Usah Sok asik Tolol*')
  await sleep(60000)
  if (tebakkalimat.hasOwnProperty(m.sender.split('@')[0])) {
  console.log("Jawaban: " + result.jawaban)
- zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/b07ee96fa50bd03e3e8ff.jpg' }, caption:`Waktu Habis\nJawaban:  ${tebakkalimat[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak kalimat`}, {quoted:m}) 
+ zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/297a0ffd35ca495c710b0.jpg' }, caption:`Waktu Habis\nJawaban:  ${tebakkalimat[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak kalimat`}, {quoted:m}) 
  delete tebakkalimat[m.sender.split('@')[0]]
  }
  } else if (args[0] === 'lirik') {
@@ -9869,7 +9869,7 @@ if (isBan) return reply('*Lu Di Ban Owner Gak Usah Sok asik Tolol*')
  await sleep(60000)
  if (tebaklirik.hasOwnProperty(m.sender.split('@')[0])) {
  console.log("Jawaban: " + result.jawaban)
- zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/b07ee96fa50bd03e3e8ff.jpg' }, caption: `Waktu Habis\nJawaban:  ${tebaklirik[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak lirik`} , {quoted:m}) 
+ zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/297a0ffd35ca495c710b0.jpg' }, caption: `Waktu Habis\nJawaban:  ${tebaklirik[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak lirik`} , {quoted:m}) 
  delete tebaklirik[m.sender.split('@')[0]]
  }
  } else if (args[0] === 'lontong') {
@@ -9883,7 +9883,7 @@ caklontong_desk[m.sender.split('@')[0]] = result.deskripsi
  await sleep(60000)
  if (caklontong.hasOwnProperty(m.sender.split('@')[0])) {
  console.log("Jawaban: " + result.jawaban)
- zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/993b4ff9df87631878505.jpg' }, caption:`Waktu Habis\nJawaban:  ${caklontong[m.sender.split('@')[0]]}\nDeskripsi : ${caklontong_desk[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak lontong`}, {quoted:m}) 
+ zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/297a0ffd35ca495c710b0.jpg' }, caption:`Waktu Habis\nJawaban:  ${caklontong[m.sender.split('@')[0]]}\nDeskripsi : ${caklontong_desk[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak lontong`}, {quoted:m}) 
  delete caklontong[m.sender.split('@')[0]]
 delete caklontong_desk[m.sender.split('@')[0]]
  }
@@ -10036,7 +10036,7 @@ let teks = m.quoted && m.quoted.q ? m.quoted.text : q ? q : "";
 if (!teks) return reply(`Cara Penggunaan ${prefix}qc teks`)
 const text = `${teks}`
 const username = await zetsubo.getName(m.quoted ? m.quoted.sender : m.sender)
-const avatar = await zetsubo.profilePictureUrl( m.quoted ? m.quoted.sender : m.sender,"image").catch(() =>`https://telegra.ph/file/da6db6a9ed70c9bb9d4f1.jpg`)
+const avatar = await zetsubo.profilePictureUrl( m.quoted ? m.quoted.sender : m.sender,"image").catch(() =>`https://i0.wp.com/telegra.ph/file/134ccbbd0dfc434a910ab.png`)
 
 const json = {
 "type": "quote",
@@ -10234,75 +10234,75 @@ konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟�
 await sleep(1000) 
 konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
-await sleep(1000) 
-konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁私⃟👿.${ios2}${ios1}`)
-await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
 konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
+await sleep(1000) 
 konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐉𝐨𝐡𝐧𝐥𝐞𝐨👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
+await sleep(1000) 
+konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
 konsol(`😈⃟導入𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁👿.${ios2}${ios1}`)
 await sleep(1000) 
@@ -10396,7 +10396,7 @@ let teks = m.quoted && m.quoted.q ? m.quoted.text : q ? q : "";
 if (!teks) return reply(`Cara Penggunaan ${prefix}qc teks`)
 const text = `${teks}`
 const username = await zetsubo.getName(m.quoted ? m.quoted.sender : m.sender)
-const avatar = await zetsubo.profilePictureUrl( m.quoted ? m.quoted.sender : m.sender,"image").catch(() =>`https://telegra.ph/file/b07ee96fa50bd03e3e8ff.png`)
+const avatar = await zetsubo.profilePictureUrl( m.quoted ? m.quoted.sender : m.sender,"image").catch(() =>`https://i0.wp.com/telegra.ph/file/134ccbbd0dfc434a910ab.png`)
 
 const json = {
 type: "quote",
