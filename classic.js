@@ -240,8 +240,8 @@ return zetsubo.sendMessage(from, { text: teks, contextInfo:{"externalAdReply": {
 
 const zetsreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
-        title : `𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝗕𝗨𝗚`,
-        body : `𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁`,
+        title : `𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓`,
+        body : `JOHNLEO`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
         mediaUrl: `https://www.instagram.com/johnleo666?utm_source=qr&igsh=MzNlNGNkZWQ4Mg`,
@@ -806,7 +806,7 @@ image: cewegw,
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg`,
+  MediaUrl:`https://telegra.ph/file/b07ee96fa50bd03e3e8ff.jpg`,
   sourceUrl:`https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z`,
   }}
   }
@@ -7785,7 +7785,7 @@ case 'broadcast':
                                 showAdAttribution: true,
                                 title: '𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓𝐄𝐃 𝐁𝐘 𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓',
                                 body: `Sent ${i.length} Group`,
-                                thumbnailUrl: 'https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg',
+                                thumbnailUrl: 'https://telegra.ph/file/b07ee96fa50bd03e3e8ff.jpg',
                                 sourceUrl: 'https://chat.whatsapp.com/Hk4jZg8HMoH1auW2NAKazX',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -7814,7 +7814,7 @@ const audiovn = "./Deadpool.mp3";
           externalAdReply: {
           title: "𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓 𝙸𝚂 𝙰𝙻𝙸𝚅𝙴💀",
           body: "https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe",
-          thumbnailUrl: "https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg",
+          thumbnailUrl: "https://telegra.ph/file/da6db6a9ed70c9bb9d4f1.jpg",
           sourceUrl: "https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z",
           mediaType: 1,
           renderLargerThumbnail: true
@@ -8447,7 +8447,7 @@ break
 //=================================================//
 case 'restart':  
   if (!isCreator) throw `Owner Only` 
-  reply(`*Restarting Deadpool* .`)  
+  reply(`*Restarting Haruka_Sakura* .`)  
   await sleep(3000)  
   process.exit()  
   break;
