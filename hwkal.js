@@ -21,18 +21,18 @@ Base Haikal Hw Mods : Copyan Dari Base Dika
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.gr = 'https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk'
-global.ig = 'ano_nymous_sam' // ubah aja
-global.email = 'samuelcircute@gmail.com' //serah
-global.region = 'kenya' // serah
+global.gr = 'https://chat.whatsapp.com/Hk4jZg8HMoH1auW2NAKazX'
+global.ig = 'johnleo666' // ubah aja
+global.email = 'johnleo.smith.666@gmail.com' //serah
+global.region = 'nigeria' // serah
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'ꪶ༺֎ᚏ༈࿉𝐀𝐍𝐎𝐍𝐘𝐌𝐎𝐔𝐒⧉ᚙ֎⸙༻' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'ꪶ༺֎ᚏ༈࿉𝐉𝐨𝐡𝐧𝐥𝐞𝐨⧉ᚙ֎⸙༻' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.owner = ['254742491666'] // ubah aja pake nomor lu
+global.owner = ['2348027387246'] // ubah aja pake nomor lu
 //==========================zetsuboclient=======================//
-global.botname = '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.packname = '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺' // ubah aja ini nama sticker
-global.author = '༻࿇𝐊𝐈𝐍𝐆_𝐒𝐀𝐌❖༺' // ubah aja ini nama sticker
+global.botname = '⫹⸙⧉𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓⧉⸙⫺' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.packname = '⫹⸙⧉𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓⧉⸙⫺' // ubah aja ini nama sticker
+global.author = '༻࿇𝐉𝐨𝐡𝐧𝐥𝐞𝐨❖༺' // ubah aja ini nama sticker
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sessionName = 'classicsession'  //Gausah Juga
 global.sp = '⭔' // Gausah Juga
