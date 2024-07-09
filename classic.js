@@ -7733,7 +7733,7 @@ await loading()
  zetsubogans = await getBuffer(`https://github.com/DGXeon/Tiktokmusic-API/raw/master/tiktokmusic/${command}.mp3`)
 await zetsubo.sendMessage(from, { audio: zetsubogans, mimetype: 'audio/mp4', ptt: true, contextInfo:{  externalAdReply: { showAdAttribution: true,
 mediaType:  1,
-MediaUrl:`https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg`,
+MediaUrl:`https://telegra.ph/file/993b4ff9df87631878505.jpg`,
 title: `JOHNLEO`,
 sourceUrl: `https://chat.whatsapp.com/Hk4jZg8HMoH1auW2NAKazX`, 
 }
@@ -7752,7 +7752,7 @@ break
 //=================================================
 case 'sc': case 'script': case 'repo':
 
- zetsubo.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/b07ee96fa50bd03e3e8ff.jpg` }, caption: 
+ zetsubo.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/993b4ff9df87631878505.jpg` }, caption: 
 `╭╼╼╼╼💀💀💀╼╼╼╼╼╼╼╼╼💀💀💀╼╼╼╼╼╼╼╮\n\n 📌𝙷𝙴𝚈  *${pushname}* \n\n 📌 𝙰𝙼 𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓 ☣.\n\n 📌  𝙶𝙴𝚃 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 .\n\n 📌𝚅𝙸𝙰 𝙻𝙸𝙽𝙺 𝙱𝙴𝙻𝙾𝚆  ⇣⇣.\n\n 📌𝙵𝙾𝚁𝙺 𝙰𝙽𝙳 𝚂𝚃𝙰𝚁 𝚁𝙴𝙿𝙾🌟➻ ❴ https://github.com/johnleosmith/HARUKA_SAKURA-BUG-BOT ❵\n\n 📌𝙲𝙷𝙴𝙲𝙺𝙾𝚄𝚃 𝚁𝙴𝙰𝙳𝙼𝙴 𝙱𝙴𝙵𝙾𝚁𝙴 𝙳𝙴𝙿𝙻𝙾𝚈𝙼𝙴𝙽𝚃.\n\n 📌𝙼𝙰𝙳𝙴 𝙱𝚈 Johnleo✇\n\n╰╼╼╼╼╼💀💀💀╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╯⸼` });
 
    break;
@@ -7813,7 +7813,7 @@ const audiovn = "./Deadpool.mp3";
           mentionedJid: [m.sender],
           externalAdReply: {
           title: "𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓 𝙸𝚂 𝙰𝙻𝙸𝚅𝙴💀",
-          body: "https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe",
+          body: "https://chat.whatsapp.com/Hk4jZg8HMoH1auW2NAKazX",
           thumbnailUrl: "https://telegra.ph/file/da6db6a9ed70c9bb9d4f1.jpg",
           sourceUrl: "https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z",
           mediaType: 1,
@@ -8437,7 +8437,7 @@ let audio = await toPTT(media, 'mp4')
 zetsubo.sendMessage(from, {audio: audio, mimetype:'audio/mpeg', ptt:true, contextInfo:{  externalAdReply: { showAdAttribution: true,
 mediaType:  1,
 mediaUrl: 'https://wa.me/2348027387246',
-title: `ZetsuboXygen`,
+title: `Haruka_Sakura`,
 sourceUrl: `https://wa.me/2348027387246`, 
 thumbnail: thumb
 }
@@ -9843,7 +9843,7 @@ if (isBan) return reply('*Lu Di Ban Owner Gak Usah Sok asik Tolol*')
  await sleep(60000)
  if (tebakkata.hasOwnProperty(m.sender.split('@')[0])) {
  console.log("Jawaban: " + result.jawaban)
- zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/297a0ffd35ca495c710b0.jpg' }, caption: `Waktu Habis\nJawaban:  ${tebakkata[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak kata` }, {quoted:m}) 
+ zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/993b4ff9df87631878505.jpg' }, caption: `Waktu Habis\nJawaban:  ${tebakkata[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak kata` }, {quoted:m}) 
  delete tebakkata[m.sender.split('@')[0]]
  }
  } else if (args[0] === 'kalimat') {
@@ -9856,7 +9856,7 @@ if (isBan) return reply('*Lu Di Ban Owner Gak Usah Sok asik Tolol*')
  await sleep(60000)
  if (tebakkalimat.hasOwnProperty(m.sender.split('@')[0])) {
  console.log("Jawaban: " + result.jawaban)
- zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/297a0ffd35ca495c710b0.jpg' }, caption:`Waktu Habis\nJawaban:  ${tebakkalimat[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak kalimat`}, {quoted:m}) 
+ zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/993b4ff9df87631878505.jpg' }, caption:`Waktu Habis\nJawaban:  ${tebakkalimat[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak kalimat`}, {quoted:m}) 
  delete tebakkalimat[m.sender.split('@')[0]]
  }
  } else if (args[0] === 'lirik') {
