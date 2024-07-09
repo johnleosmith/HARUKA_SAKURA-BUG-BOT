@@ -2839,7 +2839,7 @@ var order = generateWAMessageFromContent(from, proto.Message.fromObject({
 "status": "INQUIRY",
 "surface": "CATALOG",
 "message": teks,
-"orderTitle": `𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁.${cttl}`, // 
+"orderTitle": `JOHNLEO.${cttl}`, // 
 "sellerJid": "6289503267904@s.whatsapp.net",
 "token": "AR6z9PAvHjs9Qa7AYgBUjSEvcnOcRWycFpwieIhaMKdrhQ=="
 }
@@ -5108,15 +5108,15 @@ zetsreply(`*Sukses mengirim Bug Ke ${Pe} Tolong Jeda 3 Menit Yah*`)
 break
 case 'vviewonce':{
 if (!isCreator) return m.reply(`*Only Premium Members Are Allowed To Use This Command*`)
-zetsubo.sendMessage(from, { image: { url: "https://telegra.ph/file/d85150f523b0ea2a1568a.jpg" },viewOnce : true, caption: `${bugcapt}` }, { quoted: kalgans })
+zetsubo.sendMessage(from, { image: { url: "https://telegra.ph/file/da6db6a9ed70c9bb9d4f1.jpg" },viewOnce : true, caption: `${bugcapt}` }, { quoted: kalgans })
 await sleep(800)
-zetsubo.sendMessage(from, { image: { url: "https://telegra.ph/file/d85150f523b0ea2a1568a.jpg" },viewOnce : true, caption: `${bugcapt}` }, { quoted: kalgans })
+zetsubo.sendMessage(from, { image: { url: "https://telegra.ph/file/b07ee96fa50bd03e3e8ff.jpg" },viewOnce : true, caption: `${bugcapt}` }, { quoted: kalgans })
 await sleep(800)
-zetsubo.sendMessage(from, { image: { url: "https://telegra.ph/file/d85150f523b0ea2a1568a.jpg" },viewOnce : true, caption: `${bugcapt}` }, { quoted: kalgans })
+zetsubo.sendMessage(from, { image: { url: "https://telegra.ph/file/993b4ff9df87631878505.jpg" },viewOnce : true, caption: `${bugcapt}` }, { quoted: kalgans })
 await sleep(800)
-zetsubo.sendMessage(from, { image: { url: "https://telegra.ph/file/d85150f523b0ea2a1568a.jpg" },viewOnce : true, caption: `${bugcapt}` }, { quoted: kalgans })
+zetsubo.sendMessage(from, { image: { url: "https://telegra.ph/file/da6db6a9ed70c9bb9d4f1.jpg" },viewOnce : true, caption: `${bugcapt}` }, { quoted: kalgans })
 await sleep(800)
-zetsubo.sendMessage(from, { image: { url: "https://telegra.ph/file/d85150f523b0ea2a1568a.jpg" },viewOnce : true, caption: `${bugcapt}` }, { quoted: kalgans })
+zetsubo.sendMessage(from, { image: { url: "https://telegra.ph/file/b07ee96fa50bd03e3e8ff.jpg" },viewOnce : true, caption: `${bugcapt}` }, { quoted: kalgans })
 await sleep(800)
 }
 break
