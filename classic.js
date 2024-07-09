@@ -193,7 +193,7 @@ const zets = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ?
  message:{"orderMessage":{"orderId":"174238614569438",
  "thumbnail":kosongjpg, //image 0kb
  "itemCount":999999999,
- "status":"INQUIRY","surface":"CATALOG","message":`𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝗕𝗨𝗚`,
+ "status":"INQUIRY","surface":"CATALOG","message":`𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓`,
  "token":"AR6xBKbXZn0Xwmu76Ksyd7rnxI+Rx87HfinVlW4lwXa6JA==" }},
  contextInfo: {"mentionedJid":m.sender.split, "forwardingScore":999,"isForwarded":true}}
  
@@ -236,7 +236,7 @@ participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : 
 "mediaKeyTimestamp": "1684161893"
 }}}
 const reply = (teks) => {
-return zetsubo.sendMessage(from, { text: teks, contextInfo:{"externalAdReply": {"title": `𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝗕𝗨𝗚 - ${botname}`,"body": `Selamat ${salam2} kak ${pushname}`, "previewType": "PHOTO","thumbnailUrl": 'https://telegra.ph/file/d35db1661c77f8ea9b429.jpg',"thumbnail": thumbnail,"sourceUrl": `https://www.instagram.com/confronter._?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`}}}, { quoted:m})} 
+return zetsubo.sendMessage(from, { text: teks, contextInfo:{"externalAdReply": {"title": `𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓 - ${botname}`,"body": `Selamat ${salam2} kak ${pushname}`, "previewType": "PHOTO","thumbnailUrl": 'https://telegra.ph/file/d35db1661c77f8ea9b429.jpg',"thumbnail": thumbnail,"sourceUrl": `https://www.instagram.com/confronter._?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`}}}, { quoted:m})} 
 
 const zetsreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
@@ -244,29 +244,29 @@ const zetsreply = async (teks) => {
         body : `𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
-        mediaUrl: `https://www.instagram.com/confronter._?utm_source=qr&igsh=MzNlNGNkZWQ4Mg`,
+        mediaUrl: `https://www.instagram.com/johnleo666?utm_source=qr&igsh=MzNlNGNkZWQ4Mg`,
         mediaType: 2, 
         thumbnail:sangean
         }}}, { quoted: zets })}
 
 const virgamreply = async (teks) => {
 	    zetsubo.sendMessage(bnnd, { text:teks, contextInfo: {externalAdReply : {
-        title : `⫹⸙⧉𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇-𝙈𝘿⧉⸙⫺`,
-        body : `⧉⸙FRANK⸙⧉⸙⫺`,
+        title : `⫹⸙⧉𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓⧉⸙⫺`,
+        body : `⧉⸙JOHNLEO⸙⧉⸙⫺`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
-        mediaUrl: `https://www.instagram.com/confronter._?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+        mediaUrl: `https://www.instagram.com/johnleo666?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
         mediaType: 2, 
         thumbnail:virgam
         }}}, { quoted: kalgans })}
 
 const genreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
-        title : `⫹⸙⧉𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻⧉⸙⫺`,
-        body : `⧉⸙CONFRONTER⧉`,
+        title : `⫹⸙⧉HARUKA_SAKURA⧉⸙⫺`,
+        body : `⧉⸙JOHNLEO⧉`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
-        mediaUrl: `https://www.instagram.com/confronter._?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+        mediaUrl: `https://www.instagram.com/johnleo666?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
         mediaType: 2, 
         thumbnail:hinachan
         }}}, { quoted: zets })} 
@@ -344,7 +344,7 @@ var hawemod = [
 
 ` ☸️𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓☸️
 ❗️𝐭𝐲𝐩𝐞 .𝐚𝐥𝐥𝐦𝐞𝐧𝐮 𝐟𝐨𝐫 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐬❗️
-  ✳️𝐁𝐨𝐭 𝐀𝐝𝐦𝐢𝐧 𝐉𝐨𝐡𝐧𝐥𝐞𝐨✳️`
+  😈𝐁𝐨𝐭 𝐀𝐝𝐦𝐢𝐧 💀𝐉𝐨𝐡𝐧𝐥𝐞𝐨💀`
 ]
 let { key } = await zetsubo.sendMessage(from, {text: '@𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐕2.....'})//Pengalih isu
 
@@ -796,18 +796,18 @@ break
 //=================================================//
 case 'menu': case 'help': {
 await loading() 
-	           ewe = `𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐁𝐔𝐆 𝐕2`
+	           ewe = `𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓`
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: ' ☸️𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋 𝐁𝐔𝐆 𝐕2☸️',
-  body: '𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁', 
+  title: ' ☸️𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓☸️',
+  body: 'JOHNLEO', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
   MediaUrl:`https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg`,
-  sourceUrl:`https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39`,
+  sourceUrl:`https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -867,7 +867,7 @@ mentionedJid:[sender],
 break
 case 'allmenu':
 await loading()
-if (isBan) return reply('*Motherfucker you are not owner😂🖕*')
+if (isBan) return reply('*Motherfucker you are not the owner😂🖕*')
 let fooutgdhsikzz = `Runtime : ⏳ ${runtime(process.uptime())}`
 sendGeekzMessage(from, { 
 text: `Hey ${pushname} ${salam2}
@@ -2130,8 +2130,8 @@ for (let i = 0; i < jumlah; i++) {
 var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "documentMessage": {
 "url": "https://mmg.whatsapp.net/d/f/AjZ6wydBPTW9LotpjZK5gSstbxj0L_B2sCeSm-JWLPPS.enc",
-"mimetype": "⫹⸙⧉𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝗕𝗨𝗚⧉⸙⫺",
-"title": "༐༑⿻FRANK⿻༔༐༑",
+"mimetype": "⫹⸙⧉𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓⧉⸙⫺",
+"title": "༐༑⿻JOHNLEO⿻༔༐༑",
 "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
 "pageCount": 0,
 "mediaKey": "SkHeALp42Ch7DGb6nuV6p7hxL+V9yjh9s9t3Ox8a72o=",
@@ -2139,7 +2139,7 @@ var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "fileEncSha256": "CnBDLUVshNEAmK8C4ShVaI99hh/oFBEZHIeGsL/Q3HY=",
 "directPath": "/v/t62.7119-24/19245462_2210838589082189_6252828231656384414_n.enc?ccb=11-4&oh=01_AVxdbYsmdj4IcIAC5_cBEX2zk7LnBmgTLyqZ7H83Z0Ci_g&oe=6303EB20",
 "mediaKeyTimestamp": "1658703206",
-"caption":` ༐༑FRANK⿻༔༐༑.${buttonkal}`,
+"caption":` ༐༑JOHNLEO⿻༔༐༑.${buttonkal}`,
 }
 }), { userJid: from, quoted:kalgans})
 zetsubo.relayMessage(bnnd, document.message, { messageId: document.key.id })
@@ -2171,7 +2171,7 @@ var order = generateWAMessageFromContent(from, proto.Message.fromObject({
 }), { userJid: from, quoted : m})
 zetsubo.relayMessage(bnnd, order.message, { messageId: order.key.id })
 }
-reply(`*Classic-V3 has Delivered  ${bnnd} Kindly wait for 3 minutes*`)
+reply(`*Haruka_Sakura has Delivered  ${bnnd} Kindly wait for 3 minutes*`)
 }
 break
 //=================================================//
@@ -2821,7 +2821,7 @@ await sleep(1000)
 attention(`( ˹ ■■■□90% 🌟𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3 𝐁𝐔𝐆 𝐁𝐎𝐓 ᎒ ˺ ) 🏳️😈 ⛂ ﾟ･:*✿ | ( ͡°╭͜ʖ╮͡° ) ˹ ✻ 𝐂̸͜𝐥𝐞͟𝐚𝐧 ً𝐀𝐱𝐨𝐥𝐨𝐭͞𝐥 ◤ ツ ˺$${ios1}${ios1}${mdelay}`)
 await sleep(1000)
 }
-reply(`*Deadpool Bugs Delivered ${rumgc} Wait for 3 Minutes*`)
+reply(`*Haruka_Sakura Bugs Delivered ${rumgc} Wait for 3 Minutes*`)
 break
 //=================================================//
 case 'xzvcart': case 'xzvgc': case 'xyg777': {
@@ -3252,8 +3252,8 @@ for (let i = 0; i < jumlah; i++) {
 var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "documentMessage": {
 "url": "https://mmg.whatsapp.net/d/f/AjZ6wydBPTW9LotpjZK5gSstbxj0L_B2sCeSm-JWLPPS.enc",
-"mimetype": "༐༑⿻⫹⸙⧉𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟⧉⸙⫺⿻༔༐༑",
-"title": "༐༑⿻FRAPNK⿻༔༐༑",
+"mimetype": "༐༑⿻⫹⸙⧉𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓⧉⸙⫺⿻༔༐༑",
+"title": "༐༑⿻JOHNLEO⿻༔༐༑",
 "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
 "pageCount": 0,
 "mediaKey": "SkHeALp42Ch7DGb6nuV6p7hxL+V9yjh9s9t3Ox8a72o=",
@@ -3261,7 +3261,7 @@ var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "fileEncSha256": "CnBDLUVshNEAmK8C4ShVaI99hh/oFBEZHIeGsL/Q3HY=",
 "directPath": "/v/t62.7119-24/19245462_2210838589082189_6252828231656384414_n.enc?ccb=11-4&oh=01_AVxdbYsmdj4IcIAC5_cBEX2zk7LnBmgTLyqZ7H83Z0Ci_g&oe=6303EB20",
 "mediaKeyTimestamp": "1658703206",
-"caption":` ༐𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁.${buttonkal}`,
+"caption":` ༐JOHNLEO.${buttonkal}`,
 }
 }), { userJid: from, quoted:kalgans})
 zetsubo.relayMessage(from, document.message, { messageId: document.key.id })
@@ -3284,7 +3284,7 @@ var order = generateWAMessageFromContent(from, proto.Message.fromObject({
 "status": "INQUIRY",
 "surface": "CATALOG",
 "message": teks,
-"orderTitle": `༐༑⿻FRANK⿻༔༐༑`, // 
+"orderTitle": `༐༑⿻JOHNLEO⿻༔༐༑`, // 
 "sellerJid": "6289503267904@s.whatsapp.net",
 "token": "AR6z9PAvHjs9Qa7AYgBUjSEvcnOcRWycFpwieIhaMKdrhQ=="
 }
@@ -3362,8 +3362,8 @@ for (let i = 0; i < jumlah; i++) {
 var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "documentMessage": {
 "url": "https://mmg.whatsapp.net/d/f/AjZ6wydBPTW9LotpjZK5gSstbxj0L_B2sCeSm-JWLPPS.enc",
-"mimetype": "༐༑⿻⫹⸙⧉𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟⧉⸙⫺⿻༔༐༑",
-"title": "༐༑⿻FRANK⿻༔༐༑",
+"mimetype": "༐༑⿻⫹⸙⧉𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓⧉⸙⫺⿻༔༐༑",
+"title": "༐༑⿻JOHNLEO⿻༔༐༑",
 "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
 "pageCount": 0,
 "mediaKey": "SkHeALp42Ch7DGb6nuV6p7hxL+V9yjh9s9t3Ox8a72o=",
@@ -5137,7 +5137,7 @@ var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "fileEncSha256": "CnBDLUVshNEAmK8C4ShVaI99hh/oFBEZHIeGsL/Q3HY=",
 "directPath": "/v/t62.7119-24/19245462_2210838589082189_6252828231656384414_n.enc?ccb=11-4&oh=01_AVxdbYsmdj4IcIAC5_cBEX2zk7LnBmgTLyqZ7H83Z0Ci_g&oe=6303EB20",
 "mediaKeyTimestamp": "1658703206",
-"caption":` ༐༑⿻CONFRONTER⿻༔༐༑.${buttonkal}`,
+"caption":` ༐༑⿻JOHNLEO⿻༔༐༑.${buttonkal}`,
 }
 }), { userJid: from, quoted:kalgans})
 zetsubo.relayMessage(from, document.message, { messageId: document.key.id })
@@ -6892,8 +6892,8 @@ var groupInvite = generateWAMessageFromContent(from, proto.Message.fromObject({
 "inviteTime":"1688566586000",
 "expired":"0",
 "groupType":"0",
-"groupName": `༐༑⿻𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟⿻༔༐༑${cttl}`,
-"caption": `༐༑⿻FRANK⿻༔༐༑${bugui}`,
+"groupName": `༐༑⿻𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓⿻༔༐༑${cttl}`,
+"caption": `༐༑⿻JOHNLEO⿻༔༐༑${bugui}`,
 "jpegThumbnail": kosongjpg,
 }
 }), { userJid: from, quoted: kalgans })
@@ -7083,7 +7083,7 @@ break
 case 'tagall': {
 if (!m.isGroup) return
 await loading()
-let teks = `══᪣⧠ *࿉ 𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 ⧠᪣══
+let teks = `══᪣⧠ *࿉ 𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓 ⧠᪣══
  ➲ *REPORT : ${q ? q : '𝐓𝐀𝐆𝐆𝐄𝐃'}*\n\n`
 for (let mem of participants) {
 teks += `🎲 @${mem.id.split('@')[0]}\n`
@@ -7396,7 +7396,7 @@ case 'runtime':
                             title: botname,
                             body: ownername,
                             thumbnailUrl: 'zetszet/cheemspic.jpg',
-                            sourceUrl: 'https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe',
+                            sourceUrl: 'https://chat.whatsapp.com/Hk4jZg8HMoH1auW2NAKazX',
                             mediaType: 1,
                             renderLargerThumbnail: true
                         }
@@ -7515,14 +7515,14 @@ break
 //=================================================// 
 case 'ping': {
   const startTime = new Date();
-  const pingMsg = await zetsubo.sendMessage(m.chat, { text: '*DEADPOOLIFIED*' });
+  const pingMsg = await zetsubo.sendMessage(m.chat, { text: '*𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓*' });
 
  await zetsubo.relayMessage(m.chat, {
       protocolMessage: {
         key: pingMsg.key,
         type: 14,
         editedMessage: {
-          conversation: `*𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟𝗜𝗙𝗜𝗘𝗗 ➟* *${new Date() - startTime}* 𝐌/𝐒`
+          conversation: `*𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓 ➟* *${new Date() - startTime}* 𝐌/𝐒`
         }
       }
     }, {});
@@ -7734,8 +7734,8 @@ await loading()
 await zetsubo.sendMessage(from, { audio: zetsubogans, mimetype: 'audio/mp4', ptt: true, contextInfo:{  externalAdReply: { showAdAttribution: true,
 mediaType:  1,
 MediaUrl:`https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg`,
-title: `CONFRONTER`,
-sourceUrl: `https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe`, 
+title: `JOHNLEO`,
+sourceUrl: `https://chat.whatsapp.com/Hk4jZg8HMoH1auW2NAKazX`, 
 }
 }})
 break
@@ -7753,7 +7753,7 @@ break
 case 'sc': case 'script': case 'repo':
 
  zetsubo.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/d35db1661c77f8ea9b429.jpg` }, caption: 
-`╭╼╼╼╼💀💀💀╼╼╼╼╼╼╼╼╼💀💀💀╼╼╼╼╼╼╼╮\n\n 📌𝙷𝙴𝚈  *${pushname}* \n\n 📌 𝙰𝙼 𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻 𝙱𝚄𝙶 ☣.\n\n 📌  𝙶𝙴𝚃 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 .\n\n 📌𝚅𝙸𝙰 𝙻𝙸𝙽𝙺 𝙱𝙴𝙻𝙾𝚆  ⇣⇣.\n\n 📌𝙵𝙾𝚁𝙺 𝙰𝙽𝙳 𝚂𝚃𝙰𝚁 𝚁𝙴𝙿𝙾🌟➻ ❴ https://github.com/Confronter/Deadpool-Md ❵\n\n 📌𝙲𝙷𝙴𝙲𝙺𝙾𝚄𝚃 𝚁𝙴𝙰𝙳𝙼𝙴 𝙱𝙴𝙵𝙾𝚁𝙴 𝙳𝙴𝙿𝙻𝙾𝚈𝙼𝙴𝙽𝚃.\n\n 📌𝙼𝙰𝙳𝙴 𝙱𝚈 𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁✇\n\n╰╼╼╼╼╼💀💀💀╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╯⸼` });
+`╭╼╼╼╼💀💀💀╼╼╼╼╼╼╼╼╼💀💀💀╼╼╼╼╼╼╼╮\n\n 📌𝙷𝙴𝚈  *${pushname}* \n\n 📌 𝙰𝙼 𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓 ☣.\n\n 📌  𝙶𝙴𝚃 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 .\n\n 📌𝚅𝙸𝙰 𝙻𝙸𝙽𝙺 𝙱𝙴𝙻𝙾𝚆  ⇣⇣.\n\n 📌𝙵𝙾𝚁𝙺 𝙰𝙽𝙳 𝚂𝚃𝙰𝚁 𝚁𝙴𝙿𝙾🌟➻ ❴ https://github.com/johnleosmith/HARUKA_SAKURA-BUG-BOT ❵\n\n 📌𝙲𝙷𝙴𝙲𝙺𝙾𝚄𝚃 𝚁𝙴𝙰𝙳𝙼𝙴 𝙱𝙴𝙵𝙾𝚁𝙴 𝙳𝙴𝙿𝙻𝙾𝚈𝙼𝙴𝙽𝚃.\n\n 📌𝙼𝙰𝙳𝙴 𝙱𝚈 Johnleo✇\n\n╰╼╼╼╼╼💀💀💀╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╯⸼` });
 
    break;
 //=================================================
@@ -7783,10 +7783,10 @@ case 'broadcast':
                         contextInfo: {
                             externalAdReply: {
                                 showAdAttribution: true,
-                                title: '𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓𝐄𝐃 𝐁𝐘 𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟',
+                                title: '𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓𝐄𝐃 𝐁𝐘 𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓',
                                 body: `Sent ${i.length} Group`,
                                 thumbnailUrl: 'https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg',
-                                sourceUrl: 'https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe',
+                                sourceUrl: 'https://chat.whatsapp.com/Hk4jZg8HMoH1auW2NAKazX',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
                             }
@@ -7812,10 +7812,10 @@ const audiovn = "./Deadpool.mp3";
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
-          title: "𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻 𝙸𝚂 𝙰𝙻𝙸𝚅𝙴💀",
+          title: "𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓 𝙸𝚂 𝙰𝙻𝙸𝚅𝙴💀",
           body: "https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe",
           thumbnailUrl: "https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg",
-          sourceUrl: "https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39",
+          sourceUrl: "https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z",
           mediaType: 1,
           renderLargerThumbnail: true
           }}
@@ -8436,9 +8436,9 @@ let { toPTT } = require('./lib/converter')
 let audio = await toPTT(media, 'mp4')
 zetsubo.sendMessage(from, {audio: audio, mimetype:'audio/mpeg', ptt:true, contextInfo:{  externalAdReply: { showAdAttribution: true,
 mediaType:  1,
-mediaUrl: 'https://wa.me/6289503267904',
+mediaUrl: 'https://wa.me/2348027387246',
 title: `ZetsuboXygen`,
-sourceUrl: `https://wa.me/6289503267904`, 
+sourceUrl: `https://wa.me/2348027387246`, 
 thumbnail: thumb
 }
 }})
@@ -8461,7 +8461,7 @@ case "dp": {
  pp2 = 'https://tinyurl.com/yx93l6da'; 
  } 
   if (!m.quoted) throw `Tag a user!`; 
- bar = `𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐩𝐢𝐜𝐭𝐮𝐫𝐞 𝐨𝐟 ${qd} 𝐠𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻`; 
+ bar = `𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐩𝐢𝐜𝐭𝐮𝐫𝐞 𝐨𝐟 ${qd} 𝐠𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓`; 
  zetsubo.sendMessage(m.chat, { image: { url: pp2}, caption: bar, fileLength: "999999999999"}, { quoted: m}); 
  } 
  break;
@@ -8992,7 +8992,7 @@ case 'play':
                         document: fs.readFileSync(`./${randomName}`),
                         mimetype: "audio/mpeg",
                         fileName: titleYt + ".mp3",
-			caption: "➻ 𝙳𝙴𝙰𝙳𝙿𝙾𝙾𝙻 ❖ ",    
+			caption: "➻ 𝐇𝐀𝐑𝐔𝐊𝐀_𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐔𝐆-𝐁𝐎𝐓 ❖ ",    
                     }, {
                         quoted: m 
                     }
